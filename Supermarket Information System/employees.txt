@@ -1,0 +1,3 @@
+0001,HR_manager,HR_manager,Mike,Gavriel,102,true
+0002,cashier_1,cashier_1,John,Doe,103,true
+0003,manager_1,manager_1,Angelo,Moore,101,true

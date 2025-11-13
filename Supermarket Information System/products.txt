@@ -1,0 +1,10 @@
+milk:100:dairy:1.5:false
+bread:101:bakery:2.0:false
+chicken:200:meat:7.5:false
+eggs:102:dairy:3.2:true
+beef:201:meat:9.75:true
+apples:300:produce:2.3:false
+cheese:103:dairy:5.24:true
+bananas:301:produce:1.9:false
+yogurt:104:dairy:1.8:false
+tomatoes:302:produce:3.1:true
