@@ -105,7 +105,7 @@ Upon launch, the system loads all files and restores the last saved state.
 ## How to Run
 
 1. Clone this repository:
-   git clone https://github.com/<your-username>/Supermarket-Information-System.git](https://github.com/Hydrocast/Supermarket-Information-Syste
+   git clone https://github.com/Hydrocast/Supermarket-Information-System.git
 
 2. Open the project in a Java IDE.
 
