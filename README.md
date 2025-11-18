@@ -1,4 +1,5 @@
 # Supermarket Information System
+**Author**: Giannis Loizou
 
 A **Java-based supermarket management system** developed as part of the course **CSE 227 – Advanced Object-Oriented Programming (Spring 2025)**.  
 The project demonstrates use of **OOP principles** — encapsulation, inheritance, composition, and polymorphism — to simulate a supermarket environment with role-based user functionality and persistent data storage.
@@ -102,6 +103,22 @@ Upon launch, the system loads all files and restores the last saved state.
 
 ---
 
+## Technologies Used
+
+- **Language**: Java
+- **Paradigm**: Object-Oriented Programming (OOP)
+- **Environment**: IntelliJ IDEA
+- **Persistence**: Text file I/O
+- **Version Control**: GitHub
+
+## Course Info
+
+- **Course**: CSE 227 – Advanced Object-Oriented Methodology and Programming (UML, Java)
+- **Semester**: Spring 2025
+- **Institution**: Cyprus University of Technology
+
+---
+
 ## How to Run
 
 1. Clone this repository:
@@ -116,7 +133,7 @@ Upon launch, the system loads all files and restores the last saved state.
 5. Follow the console menus to navigate.
 
 ## Example Output (Console)
-
+```bash
 Loading system data...
 All data loaded successfully!
 System initialized successfully!
@@ -126,26 +143,4 @@ System initialized successfully!
 1. Login
 2. Exit
 Select option:
-
----
-
-## Author
-
-**Giannis Loizou**
-- Bachelor’s in Computer Science and Engineering
-- Cyprus University of Technology
-
-## Technologies Used
-
-- **Language**: Java
-- **Paradigm**: Object-Oriented Programming (OOP)
-- **Environment**: IntelliJ IDEA
-- **Persistence**: Text file I/O
-- **Version Control**: GitHub
-
-## Course Info
-
-- **Course**: CSE 227 – Advanced Object-Oriented Methodology and Programming (UML, Java)
-- **Semester**: Spring 2025
-- **Institution**: Cyprus University of Technology
 
