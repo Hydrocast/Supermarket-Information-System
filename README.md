@@ -1,7 +1,7 @@
 # Supermarket Information System
 **Author**: Giannis Loizou
 
-A **Java-based supermarket management system** developed as part of the course **CSE 227 – Advanced Object-Oriented Programming (Spring 2025)**. The project demonstrates use of **OOP principles** — encapsulation, inheritance, composition, and polymorphism — to simulate a supermarket environment with role-based user functionality and persistent data storage.
+A **Java-based supermarket management system** developed as part of the course **CSE 227 – Advanced Object-Oriented Programming (Spring 2025)**. This project demonstrates use of **OOP principles** — encapsulation, inheritance, composition, and polymorphism — to simulate a supermarket environment with role-based user functionality and persistent data storage.
 
 ---
 
